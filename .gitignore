@@ -1,0 +1,20 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Dropbox / Obsidian / sync artefacts
+.dropbox*
+*conflicted copy*
+*.sync-conflict-*
+.obsidian/
+
+# Claude Code local state
+.claude/
+
+# Scratch and local test transcripts
+scratch/
+tests-local/
