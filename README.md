@@ -14,7 +14,7 @@ The assistant asks one question at a time, starting with personality, backstory 
 2. Start a chat with your AI tool (ChatGPT, Claude, Gemini, ...), paste the file or upload it, and say you want to create a character.
    - Tools that can read links: just give the URL of this repository and say you want to use it.
 3. Answer the questions. Say how much time you have; it adapts.
-4. Stuck? You get six options each time, the sixth always being "something else" for your own idea.
+4. Stuck? Ask for suggestions: you get up to six, the last always being "something else" for your own idea (as buttons, if your AI tool supports them).
 5. Out of time? Ask for the markdown so far. Later, start a new chat with the guide plus your saved markdown to continue.
 
 ## Good to know
