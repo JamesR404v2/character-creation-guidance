@@ -6,7 +6,7 @@ Guides you through character creation with help from your favorite AI tool.
 
 A single markdown file, [`Character-creation-guide.md`](Character-creation-guide.md), that tells an AI chat assistant how to interview you about your tabletop RPG character. It is not an app and not an AI itself. Your own AI does the talking; this file is its instructions.
 
-The assistant asks one question at a time, starting with personality and backstory, then ruleset, class and race, and finally appearance. It never invents details for you: everything in the result is something you gave or explicitly accepted. The end result is a markdown character sheet you can print, bring to your game master, and reuse in later chats.
+The assistant asks one question at a time, starting with personality, backstory and story hooks, then ruleset, class, race, name and background, then bonds, ideals and flaws, and finally appearance. It never invents details for you: everything in the result is something you gave or explicitly accepted. The end result is a markdown character sheet you can print, bring to your game master, and reuse in later chats.
 
 ## How to use it
 
@@ -19,7 +19,7 @@ The assistant asks one question at a time, starting with personality and backsto
 
 ## Good to know
 
-- Works in any language: the assistant asks which one you prefer first.
+- Works in any language: just write in yours, and the assistant and the result follow it.
 - Defaults to D&D 5e (2014 or 2024), but asks which system you play.
 - Extreme backstory ideas are allowed, but you will be asked to tie them to your character and they get flagged "confirm with GM".
 - Intended for players. Your game master reads the result.
